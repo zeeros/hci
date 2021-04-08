@@ -1,0 +1,150 @@
+#+TITLE: Pervasive computing
+
+* Introduction
+
+#+BEGIN_QUOTE
+The most profound technologies are those that *disappear*. They weave themselves into the fabric of everyday life until they are *indistinguishable* from it.
+#+END_QUOTE
+
+In 1991 Mark Weiser publishes a list of principles for creating environments saturated with computing and communication capability, fully integrated with human users. With *pervasive computing* he introduces
+- Goal of a computer is to *help* you doing something
+- The best computer is a *quiet*, *invisible* servant
+- The computer should extend you unconsciousness in a why that you can do more things by *intuition*
+- *Calm technology* informs but doesn't demand focus or attention
+
+Ubiquitous means for
+- Technology :: To be embedded in things and people, mobile and portable with wireless communication
+- User :: Doesn't notice the technology or interaction with it, but appreciates its augmenting capabilities and benefits
+
+An example can be *embedded systems*, which are systems with a dedicated function embedded in a largel mechanical/electrical system, often with real-time computing constraints.
+
+So the pervasive computing goal is *invisibility*, and technological improvements are moving in this direction: the *Bell's law* (1972) states that computer classes form, evolve and eventually die in different market/industries lifespan. The result of this are several paradigm shifts, involving
+- Decentralization :: From mainframe to PC, from PC to smaller devices. Synchronizing and managing info is the key to make this work.
+- Diversification :: From universal, general purpose computers to diversified devices for specific tasks. This fragmentation is a challenge for a consistent way of interacting.
+- Connectivity :: Seamless interaction between nodes and no boundaries. A permanent, heterogeneous and standard-complient connection is a real life challenge.
+- Simplicity :: Keep It Simple Stupid, hide complexity behond a friendly interface.
+
+* Issues and challenges
+
+Mobility issues
+- Integration of mobile communicators into complex info infrastructures
+- Effect on work and leisure
+- Privacy
+- Devolopment and management of adatable, context-aware software systems
+- Network support
+- Power supply
+
+Wireless issues
+- Many similar standards
+- Shortage of spectrum
+- Low power and multiple base stations with intelligent antenna
+- Spectrum overlapping and interference
+- Unregulated bands
+- Health risks
+
+* Privacy and trust
+
+- Proactiveness and self-tuning require pervasive systems to have knowledgeable about the user's movements, behaviour and habits at the expense of privacy.
+- Mutual trust between user and infrastructure is also required, and this can compromise invisibility
+- Privacy of user and data must be ensured
+- Information must be protected from unsavory behaviours
+- The more reliance on these systems, the more important mutual trust
+
+* Suggested papers
+** Future Challenges in Context Aware Computing [fn:1]
+
+- *Context-awareness* is the ability of computing systems to both
+  - Acquire and reason on situational context
+  - Adapt application accordingly
+- Unlike humans, modern ubiquitous computer systems lack an automatic way to infer information
+- Recent context-aware systems
+  - Aid smart device discovery+delivery+adaptation
+  - Use rich ontologies for context-nbased representation
+- In the realm of pervasive computing, context awareness is still an emerging field in a state of infancy. *Future research* challenges requires
+  - Context definition :: By limiting scope and identifying relevant parameters
+  - Context-aware models :: Task specific architectures are available, but standards support is still lacking
+  - Sensing context data :: Wearable computing and personalized sensors are in development (OUTDATED)
+  - Predicting context data :: For lack of sensors, predictions are history driven (e.g. Bayesian models)
+  - Context information representation and storage :: Facilitate and standardize representation schemes
+  - Context inference and system behaviour adaptation :: A key challenge in a adaptation oriented process
+  - Evaluation of context aware systems :: Evaluation criteria and measures need to be outlined
+  - Privacy control :: Context data includes private information that must be secured
+- Context-aware systems *model*
+  - Context acquisition :: Sensoring and gathering
+  - Context representation :: Standard representation scheme
+  - Context storage :: Local storage (to both save context history and provide data to the next step)
+  - Context interpretation :: Give context and implications
+  - Context adaptation :: That includes
+    - Service discovery
+    - Service delivering
+    - Service adapting
+
+** An Introduction to Computational Awareness [fn:2]
+
+- The *IEEE SMC society* is a technical commitee established in field of awareness computing
+- *Awareness*
+  - Is a mechanism for detecting some events
+  - Can be found in many different levels: from single neuron to human level (and beyond)
+  - Can be classified in different levels (and awareness systems) to improve computer intelligence, step-by-step
+- *Awareness-computing*
+  - Is the process of acquiring and distributing context information about what happened/is happening/will happen in an environment
+- The proposed model describes different *levels of awareness*: sensory-level, sub-symbolic level, symbolic level, word level, knowledge level, human level and above-human level
+- *Consciousness*
+  - May describe the wakefulness of an aware system to the current state
+  - Is a relatively high level of awareness
+- Awareness systems can be described and composed by *aware units* (AUs), each one composed by
+  - A receptor :: Receives, filters, enhances, normalizes and standardizes input data
+  - A reactor :: Extracts and selects important features
+  - A relater :: Detect specific events and make decisions
+- A limitation of AUs is that, being pre-designed and programmed, adaptability to dynamic and complex contextes is a serious challenge
+- We may consider AU formed through the internet as *virtual AU*
+- The basic problem of making aware systems more intelligent involves the following questions
+  - Awareness for what? :: Proactively contribute to the goal (or even to the statement of the goal itself)
+  - Awareness of whom? :: Providing personalized services requires user modeling
+  - Awareness of what? :: Effectively describe the dynamic events in advance
+  - Awareness with what? :: Learn to extract and select the important features in a compact way
+- *Global-scale wareness server* (GSAS)
+  - Is a continuosly evolving system in a planet-scale
+  - Evolution is drvien by a continuos "battle" between users and producers
+  - Will ideally evolve to a *general purpose solver* (GPS)
+
+** Privacy and consent in pervasive networks] [fn:3]
+
+Context
+- Pervasive computing services involve more and more data exchange between users and providers
+- The unathorized access to Personal identifiable information (PII) increases with the increase of traffic
+Problems
+- Most centralized security mechanisms are insufficient in the pervasive context
+- Regulations is fragmented between countries, no cross border and cohesive structure
+
+PII definition by EU
+
+#+BEGIN_QUOTE
+personal data’ shall mean any information relating to anidentified or identifiable natural person (‘data subject’); anidentifiable person is one who can be identified, directly orindirectly, in particular by reference to an identificationnumber or to one or more factors specific to his physical, physiological, mental, economic, cultural or socialidentity.
+#+END_QUOTE
+
+- Privacy may be seen as the protection of PII
+- In pervasive computing
+  - Authentication and identification identity (and personal information) to be exchanged
+  - Identity management systems provide control to users of their private info, but such a centralized system makes it also as a valuable target for attackers
+
+Concerning location information
+- A wide range of technologies may be adopted
+- Masking techniques are available to deal with info with location base systems (LBS)
+
+Privacy regulations
+- Have different implementations between EU, US, Canada
+- Are difficult to track in an updated fashion
+
+Privacy standards and architectures must deal with
+- Regulation analysis :: Keeping track of all regulatory tables
+- Management reference model :: Reference processes to enforce policies
+- Technical reference model :: Guide for privacy enhancing technologies, such as pseudonymity
+
+While schemes and architectures for privacy are slowly emerging in this field, pervasive systems are still facing big challenges concerning security and data protection in the upcoming future.
+
+* Footnotes
+
+[fn:1] Mahmud, Umar & Malik, Nazir & Javed, Muhammad. (2007). Future Challenges in Context Aware Computing.
+[fn:2] Qiangfu Zhao, "An introduction to computational awareness," 4th International Conference on Awareness Science and Technology, Seoul, Korea (South), 2012, pp. 29-34, doi: 10.1109/iCAwST.2012.6469584.
+[fn:3] Malik, Nazir & Tomlinson, Allan. (2009). Privacy and consent in pervasive networks. Information Security Technical Report. 14. 138-142. 10.1016/j.istr.2009.10.002.

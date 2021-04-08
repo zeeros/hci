@@ -1,0 +1,37 @@
+#+TITLE: The Ocean Cleanup POC
+#+AUTHOR:
+
+* The Ocean Cleanup
+
+- Boyan Slat, after a scuba-diving expedition on which he saw more plastic trash than wildlife, quits his astrophysics degree and founds in 2013 *The Ocean Cleanup*
+- Non-profit organization with the ambitious goal of reducing 90-percent of plastic trash in the world’s oceans by 2040.
+- The most successful non-profit crowdfunding campaign to date, gaining $2.2m
+
+* Solution
+
+- Interceptor™ 1.0 (2017-Today) :: First prototype display multiple engineering problems
+- Interceptor™ 2.0. (2018-Today) :: Second implementation brings multiple improvements and focus moves to river pollution
+- System 001 - Wilson (2018) :: First cleanup system display several issues: the slow speed of the solar-powered 600-meter long barrier isn’t allowing it to scoop up plastic from the swirling trash island. The system is retired after 4 months.
+- System 001/B (2019) :: The new system design addresses the problems of plastic retention and structural integrity, all in a modular fashion to ease offshore adaptations
+
+* Scaling up
+
+- Oceans (2021) :: Launch the improved System 002 and scale-up to the full fleet in the Great Pacific Garbage Patch
+- Rivers (Today-2025) :: Since only 1,000 rivers are responsible for roughly 80 percent of riverine trash pollution worldwide, focus on only the world’s most polluted rivers
+
+* The Ocean Cleanup's Sunglasses
+
+- Production and selling of sunglasses is ideally a stream of revenue for the company to continue the cleanup process
+- The frame and case of the sunglasses are made from recycled materials
+
+* Criticism
+
+- Still a proof-of-concept, far to be proven scalable
+- Garbage patches contain only 3-5% of all the plastic in the ocean
+- Is it diverting resources/attention from efforts that keep garbage from reaching the ocean in the first place?
+
+* Resources
+- [[https://www.architecturaldigest.com/story/ocean-cleanups-collects-110000-pounds-trash-rivers-each-day][The Ocean Cleanups Latest Invention Collects 110,000 Pounds of Trash From Rivers Each Day]]
+- [[https://theoceancleanup.com/milestones/][Milestones]]
+- [[https://youtu.be/IQhmtYg5Ijo][Turning Trash into Treasure: The Ocean Cleanup's sunglasses made from ocean plastic [YouTube]​]]
+- [[https://www.npr.org/2018/12/18/677663325/creator-of-floating-garbage-collector-struggling-to-capture-plastic-in-pacific?t=1616513349014][Creator Of Floating Garbage Collector Struggling To Capture Plastic In Pacific]]

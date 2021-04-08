@@ -1,0 +1,6 @@
+#+TITLE: Notes on Human-Computer Interaction
+
+Collection of notes and code about the Human-Computer Interaction course, part of the Master in Artificial Intelligence at the Universitat Politècnica de Catalunya (UPC).
+
+* Project
+* Self-study

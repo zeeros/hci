@@ -1,0 +1,20 @@
+#+TITLE: Feedbacks
+* Prof. Joan Cabestany
+
+The general idea and the state of the art is well expressed, what is missing is the identification of risks: what can happen? And how can we react?
+
+* Prof. Andreu Catala
+
+- Who will be our target? And why? There are several studies available that we may use to justify our choice
+- A comparative table is appropriate to resume the State of the Art
+- The time shared between the members during the presentation should be as equal as possible
+
+* Students
+
+- Xavier :: Have a look at these links
+  - https://community.preciousplastic.com/academy/intro.html
+  - https://www.fosbarcelona.com/
+- Ronald :: We can quote the fact that there are 7 different types of plastic
+- Alberto :: What is our position regarding a punitive approach, like the one adopted in China?
+- David :: Punishment shouldn't be an option when considering HCI
+- Roger :: Barcelona town hall announced 2-3 days ago that they are going to deploy "intelligent containers" to keep track of citizens recycling habits and provide benefits

@@ -1,0 +1,71 @@
+#+TITLE: Context awareness
+
+
+* Context Aware Computing Market - Growth, Trends, COVID-19 Impact, and Forecasts (2021 - 2026)[fn:1]
+
+Context awareness
+- What? :: The ability of computing systems to acquire, fetch, reason the situational context and adapt to their application
+- How? :: Raw data $\rightarrow$ high-level interpreted context $\rightarrow$ implications $\rightarrow$ adaptations
+- Market :: USD 54.02 billion in 2020, USD 257.35 billion by 2026 (29.9% CAGR)
+  - Consumer electronics segment is expected to witness significant growth
+  - North America is expected to dominate the market
+  - Competitive landscape and highly fragment market. While IBM, Microsoft, Cisco, Google, Oracle are all major players, none of them is a dominating player in the context awareness computing market
+- Drivin factors :: The main drivin factors are
+  - Escalating penetration of mobile devices
+  - Integration of AI into such devices
+  - Rise in integrated IoT offerings
+  - Automotive industry will offer a significant stimulus
+- Scenarios :: Some forecasted scenarios
+  - Healthcare systems :: Reduce traffic by sensing environment and patient condition, collect and share efficiently information between medical centres, hospitals and patients
+  - Driving :: Reduce drivers errors and increase situational awareness
+  - Financial services :: Context-awareness is increasing with the adoption of mobily devices for financial operations
+  - Augmented reality :: Proliferacion of AI and wearables is pushing this sector
+  - Customer retantion :: More awareness means understanding of the user needs
+  - Gaming :: Advancements in hardware are opening the door to context-aware gaming
+- Restraining factors :: The main challenges to be faced are
+  - _Computational complexities hindering the growth of the market_
+  - _Impact of the COVID-19 on the industry Ecosystem (Short-term as well as long-term)_
+
+* Context Aware Computing Market Size, Share & COVID-19 Impact Analysis, 2021-2028[fn:2]
+
+- Outbreak effects :: Neutral on this market
+  - Work from home (WFH) exposes users to various security risks
+  - Great impact on consumer electronics
+  - Steady increase on smart devices (1.39 billion units in 2023,  International Data Corporation)
+- Context aware AI (CAAI) :: For the rising adoption of AI and ML
+  - In September 2020, MeeamiTech launched a Deep Learning and AI-based context aware noise suppression system called ClearConferenceTM. The aim is to eliminate background noise from video and voice calls.
+  - In March 2019, PacketSled launched its network-monitoring platform, MixMode, driven by the CAAI technology. The aim is to reduce the enterprise network false positive alerts by 90%.
+- Restraining factors :: The main challenges to be faced are
+  - _Increasing emphasis on data privacy and information security to restrict context aware computing market growth_: these are the main concern for industries across the globe
+
+* A survey on pervasive computing over context-aware system [fn:3]
+
+Context aware systems
+- Require data to be accurate, precise and dynamic
+- Has to deal with noise, outliers, large-scale datasets
+- Combines heterogeneous sources of information (satellite maps, social media information, recognized activities and GPS information) to build a contextual picture
+- Deals with an evergrowing amount of sensors
+
+When dealing with smart objects
+- The design of a scalable communication architecture is non-trivial
+- Languages, tools and abstractions are supposed to work in a device independent way
+- Compisition and integration require a consistency
+- Solutions are constrained by energy and bandwidth
+
+Cloud computing
+- Can be adopted to overcome energy/bandwidth limits
+- Adds the challenge of managing access and roles and latency
+
+* Presentation feedback
+- What is not possible nowadays but should be possible in the coming future?
+- Analyze challenges as a function of new needs and new requirements
+- Good conclusion could be a list of technological requirements...
+  - Laws :: Safety and security
+- Analyze pros and cons about energy consumption with cloud and non-cloud solutions
+- Ok review of area, complete study with some lines of research
+  - Energy :: Networks of computers (in cold places), energy, harvesting
+* Footnotes
+
+[fn:1] https://www.mordorintelligence.com/industry-reports/context-aware-computing-market
+[fn:2] https://www.fortunebusinessinsights.com/industry-reports/context-aware-computing-market-101605
+[fn:3] Gollagi, Shantappa & Math, M. & Daptardar, A.. (2020). A survey on pervasive computing over context-aware system. CCF Transactions on Pervasive Computing and Interaction. 2. 10.1007/s42486-020-00030-6.
